@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Akic404&#39;s Blog</title>
+        <link>https://akic404.github.io/</link>
+        <description>Recent content on Akic404&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Thu, 30 Dec 2021 22:20:17 +0800</lastBuildDate><atom:link href="https://akic404.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello_World</title>
+        <link>https://akic404.github.io/p/hello_world/</link>
+        <pubDate>Thu, 30 Dec 2021 22:20:17 +0800</pubDate>
+        
+        <guid>https://akic404.github.io/p/hello_world/</guid>
+        <description>&lt;img src="https://akic404.github.io/p/hello_world/helloworld.jpg" alt="Featured image of post Hello_World" /&gt;&lt;hr&gt;
+&lt;h1 id=&#34;一些常用指令&#34;&gt;一些常用指令&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;git init&lt;br&gt;
+初始化&lt;/li&gt;
+&lt;li&gt;git git remote add origin &lt;a class=&#34;link&#34; href=&#34;https://github.com/akic404/akic404.github.io.git&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/akic404/akic404.github.io.git&lt;/a&gt;&lt;br&gt;
+绑定仓库&lt;/li&gt;
+&lt;li&gt;git add .&lt;br&gt;
+添加全部文件到暂存区&lt;/li&gt;
+&lt;li&gt;git commit -m &amp;ldquo;XXXXX&amp;rdquo;&lt;br&gt;
+将暂存区内容添加到仓库中&lt;/li&gt;
+&lt;li&gt;git push -u origin master&lt;br&gt;
+上传远程代码并合并&lt;/li&gt;
+&lt;li&gt;git branch&lt;br&gt;
+查看分支&lt;/li&gt;
+&lt;li&gt;git checkout -b iss53&lt;br&gt;
+增加分支&lt;/li&gt;
+&lt;li&gt;git checkout doc&lt;br&gt;
+切换到doc&lt;/li&gt;
+&lt;li&gt;git push -u origin doc   &lt;br&gt;
+上传远程代码并合并&lt;/li&gt;
+&lt;li&gt;git pull origin master:brantest&lt;br&gt;
+将远程主机 origin 的 master 分支拉取过来，与本地的 brantest 分支合并&lt;/li&gt;
+&lt;li&gt;git pull origin master&lt;br&gt;
+如果远程分支是与当前分支合并，则冒号后面的部分可以省略&lt;/li&gt;
+&lt;li&gt;git clone &amp;ndash;branch 分支名 &amp;ndash;single-branch 仓库地址   &lt;br&gt;
+如果想只单纯的clone 指定分支，不包含其他分支信息，可以这样&lt;/li&gt;
+&lt;li&gt;git push origin &amp;ndash;delete doc&lt;br&gt;
+需要先切换到另一个分支，才能删除原来所处分支&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;hi别来无恙啊&#34;&gt;Hi,别来无恙啊&lt;/h3&gt;
+&lt;p&gt;这是这个博客第一个由我编写的文章，我将利用他来调试这个博客
+&lt;figure 
+	&gt;
+	&lt;a href=&#34;https://akic404.github.io/img/test.jpg&#34; &gt;
+		&lt;img src=&#34;https://akic404.github.io/img/test.jpg&#34;
+			
+			
+			
+			loading=&#34;lazy&#34;
+			alt=&#34;图片 1&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;图片 1&lt;/figcaption&gt;
+	
+&lt;/figure&gt;
+&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 177; 
+			flex-basis: 426px&#34;
+	&gt;
+	&lt;a href=&#34;https://akic404.github.io/p/hello_world/test.jpg&#34; data-size=&#34;1920x1080&#34;&gt;
+		&lt;img src=&#34;https://akic404.github.io/p/hello_world/test.jpg&#34;
+			width=&#34;1920&#34;
+			height=&#34;1080&#34;
+			srcset=&#34;https://akic404.github.io/p/hello_world/test_hu86b57a2591cd9dd46d53aa2a5fccc5f5_137666_480x0_resize_q75_box.jpg 480w, https://akic404.github.io/p/hello_world/test_hu86b57a2591cd9dd46d53aa2a5fccc5f5_137666_1024x0_resize_q75_box.jpg 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;图片 2&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;图片 2&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 150; 
+			flex-basis: 360px&#34;
+	&gt;
+	&lt;a href=&#34;https://akic404.github.io/p/hello_world/donate.jpg&#34; data-size=&#34;4032x2688&#34;&gt;
+		&lt;img src=&#34;https://akic404.github.io/p/hello_world/donate.jpg&#34;
+			width=&#34;4032&#34;
+			height=&#34;2688&#34;
+			srcset=&#34;https://akic404.github.io/p/hello_world/donate_hu3290202a50bafe6c429b38f8209b85f5_1916662_480x0_resize_q75_box.jpg 480w, https://akic404.github.io/p/hello_world/donate_hu3290202a50bafe6c429b38f8209b85f5_1916662_1024x0_resize_q75_box.jpg 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;如果我的文章对您有帮助，希望您能对我进行一些支持&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如果我的文章对您有帮助，希望您能对我进行一些支持&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>随身WiFi相关教程</title>
+        <link>https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;img src="https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/head.JPG" alt="Featured image of post 随身WiFi相关教程" /&gt;&lt;h4 id=&#34;本文软件部分有210410之分硬件部分请根据您实际情况随机应变&#34;&gt;本文软件部分有210,410之分，硬件部分请根据您实际情况随机应变&lt;/h4&gt;
+&lt;h4 id=&#34;我只刷过帕米糠此教程以帕米糠为主其他教程请询问酷安板块qq群&#34;&gt;我只刷过帕米糠，此教程以帕米糠为主，其他教程请询问酷安板块，qq群&lt;/h4&gt;
+&lt;h1 id=&#34;系统部分&#34;&gt;系统部分&lt;/h1&gt;
+&lt;h2 id=&#34;准备工具&#34;&gt;准备工具&lt;/h2&gt;
+&lt;h3 id=&#34;从哪里找工具&#34;&gt;从哪里找工具&lt;/h3&gt;
+&lt;p&gt;我的工具是从以下两个群获得的，如果群已满请去酷安&amp;quot;随身WiFi&amp;quot;板块搜索或询问新群&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;· 垃圾佬之家  411125543 &lt;br&gt;
+· MIUI13内测  558176338&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;有些我会补连接，请注意，我只是收集资料，这些模块并不是我编写的（后期我会尝试编写一个自动开启adb，WiFi的软件），我尽力标注每个文件的作者，侵删&lt;/p&gt;
+&lt;h3 id=&#34;你需要什么工具&#34;&gt;你需要什么工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;刷机包（群里有最新版，我的连接是我所使用的版本，可能版本会落后）    &lt;br&gt;
+· &lt;a class=&#34;link&#34; href=&#34;https://cowtransfer.com/s/4804edb5d4eb4d&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://cowtransfer.com/s/4804edb5d4eb4d&lt;/a&gt; 或 打开【奶牛快传】使用传输口令：c65zka
+详细操作版作者未知&lt;br&gt;
+精简系统版本作者qq1773962625&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;adb调试工具&lt;br&gt;
+搞机助手https://lsdy.top/gjzs （用于传输文件）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;adb投屏工具&lt;br&gt;
+安卓投屏https://lsdy.top/aztp （安卓版本5.1及以上可用，例如帕米糠）
+qq群（适用于其他安卓版本）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;开始刷机&#34;&gt;开始刷机&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;本人推荐使用精简系统，我一开始用的是详细版在源系统上魔改，但是稳定性不好，调试略微麻烦，而精简版就没这些问题&lt;/li&gt;
+&lt;li&gt;哦对了，教程在每个文件里原作者们都有写，其实你按着步骤走就行(((((((，我只说一些需要注意的地方&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;精简系统刷机需要进9008&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 150; 
+			flex-basis: 360px&#34;
+	&gt;
+	&lt;a href=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/donate.jpg&#34; data-size=&#34;4032x2688&#34;&gt;
+		&lt;img src=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/donate.jpg&#34;
+			width=&#34;4032&#34;
+			height=&#34;2688&#34;
+			srcset=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/donate_hu3290202a50bafe6c429b38f8209b85f5_1916662_480x0_resize_q75_box.jpg 480w, https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/donate_hu3290202a50bafe6c429b38f8209b85f5_1916662_1024x0_resize_q75_box.jpg 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;如果您认可我的工作，希望您能为我提供一些资助&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;如果您认可我的工作，希望您能为我提供一些资助&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

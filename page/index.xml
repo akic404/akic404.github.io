@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Akic404&#39;s Blog</title>
+    <link>https://akic404.github.io/page/</link>
+    <description>Recent content in Pages on Akic404&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://akic404.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文章</title>
+      <link>https://akic404.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://akic404.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://akic404.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akic404.github.io/%E5%85%B3%E4%BA%8E%E6%88%91/</guid>
+      <description>HI，别来无恙啊 首先感谢你来观看我的博客！ 说说我自己吧： 垃圾佬一名，平时做做diy之类的，编程的话只会Python基础，目前还在学Andro</description>
+    </item>
+    
+    <item>
+      <title>友情链接</title>
+      <link>https://akic404.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akic404.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+      <description>To use this feature, add links section to frontmatter. This page&amp;rsquo;s frontmatter: links:- title:GitHubdescription:GitHub is the world&amp;#39;s largest software development platform.website:https://github.comimage:https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png- title:TypeScriptdescription:TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.website:https://www.typescriptlang.orgimage:ts-logo-128.jpgimage field accepts both local and external images.</description>
+    </item>
+    
+    <item>
+      <title>搜索</title>
+      <link>https://akic404.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akic404.github.io/search/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Akic404&#39;s Blog</title>
+    <link>https://akic404.github.io/post/</link>
+    <description>Recent content in Posts on Akic404&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 30 Dec 2021 22:20:17 +0800</lastBuildDate><atom:link href="https://akic404.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello_World</title>
+      <link>https://akic404.github.io/p/hello_world/</link>
+      <pubDate>Thu, 30 Dec 2021 22:20:17 +0800</pubDate>
+      
+      <guid>https://akic404.github.io/p/hello_world/</guid>
+      <description>一些常用指令 git init 初始化 git git remote add origin https://github.com/akic404/akic404.github.io.git 绑定仓库 git add . 添加全部文件到暂存区 git commit -m &amp;ldquo;XXXXX&amp;rdquo; 将暂存区内容添加到仓库中 git push -u origin master 上传远程代码并合并 git branch 查看分支</description>
+    </item>
+    
+    <item>
+      <title>随身WiFi相关教程</title>
+      <link>https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</guid>
+      <description>本文软件部分有210,410之分，硬件部分请根据您实际情况随机应变 我只刷过帕米糠，此教程以帕米糠为主，其他教程请询问酷安板块，qq群 系统部分</description>
+    </item>
+    
+  </channel>
+</rss>
