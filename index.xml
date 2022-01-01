@@ -108,8 +108,10 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/</guid>
-        <description>&lt;img src="https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/head.JPG" alt="Featured image of post 随身WiFi相关教程" /&gt;&lt;h4 id=&#34;本文软件部分有210410之分硬件部分请根据您实际情况随机应变&#34;&gt;本文软件部分有210,410之分，硬件部分请根据您实际情况随机应变&lt;/h4&gt;
-&lt;h4 id=&#34;我只刷过帕米糠此教程以帕米糠为主其他教程请询问酷安板块qq群&#34;&gt;我只刷过帕米糠，此教程以帕米糠为主，其他教程请询问酷安板块，qq群&lt;/h4&gt;
+        <description>&lt;img src="https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/head.JPG" alt="Featured image of post 随身WiFi相关教程" /&gt;&lt;blockquote&gt;
+&lt;p&gt;本文软件部分有210,410之分，硬件部分请根据您实际情况随机应变 &lt;br&gt;
+我只刷过帕米糠，此教程以帕米糠为主，其他教程请询问酷安板块，qq群&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h1 id=&#34;系统部分&#34;&gt;系统部分&lt;/h1&gt;
 &lt;h2 id=&#34;准备工具&#34;&gt;准备工具&lt;/h2&gt;
 &lt;h3 id=&#34;从哪里找工具&#34;&gt;从哪里找工具&lt;/h3&gt;
@@ -130,11 +132,13 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;adb调试工具&lt;br&gt;
-搞机助手https://lsdy.top/gjzs （用于传输文件）&lt;/p&gt;
+搞机助手 &lt;a class=&#34;link&#34; href=&#34;https://lsdy.top/gjzs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://lsdy.top/gjzs&lt;/a&gt; （用于传输文件）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;adb投屏工具&lt;br&gt;
-安卓投屏https://lsdy.top/aztp （安卓版本5.1及以上可用，例如帕米糠）
+安卓投屏 &lt;a class=&#34;link&#34; href=&#34;https://lsdy.top/aztp&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://lsdy.top/aztp&lt;/a&gt; （安卓版本5.1及以上可用，例如帕米糠）&lt;br&gt;
 qq群（适用于其他安卓版本）&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -144,7 +148,44 @@ qq群（适用于其他安卓版本）&lt;/p&gt;
 &lt;li&gt;哦对了，教程在每个文件里原作者们都有写，其实你按着步骤走就行(((((((，我只说一些需要注意的地方&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;精简系统刷机需要进9008&lt;/li&gt;
+&lt;li&gt;精简系统刷机需要进9008，方法如下
+&lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 133; 
+			flex-basis: 320px&#34;
+	&gt;
+	&lt;a href=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/line.jpg&#34; data-size=&#34;1891x1418&#34;&gt;
+		&lt;img src=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/line.jpg&#34;
+			width=&#34;1891&#34;
+			height=&#34;1418&#34;
+			srcset=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/line_hua6883a2ccb2a4c14e162b16ef0a75b7a_625034_480x0_resize_q75_box.jpg 480w, https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/line_hua6883a2ccb2a4c14e162b16ef0a75b7a_625034_1024x0_resize_q75_box.jpg 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;短接D&amp;#43;和gnd插入电脑，5~10s可以不短接了&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;短接D+和gnd插入电脑，5~10s可以不短接了&lt;/figcaption&gt;
+	
+&lt;/figure&gt;  &lt;figure 
+	
+		class=&#34;gallery-image&#34; 
+		style=&#34;
+			flex-grow: 133; 
+			flex-basis: 320px&#34;
+	&gt;
+	&lt;a href=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/diyline.jpg&#34; data-size=&#34;4032x3024&#34;&gt;
+		&lt;img src=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/diyline.jpg&#34;
+			width=&#34;4032&#34;
+			height=&#34;3024&#34;
+			srcset=&#34;https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/diyline_hub3cca1091253af3d91823cfb007abc99_6286994_480x0_resize_q75_box.jpg 480w, https://akic404.github.io/p/%E9%9A%8F%E8%BA%ABwifi%E7%9B%B8%E5%85%B3%E6%95%99%E7%A8%8B/diyline_hub3cca1091253af3d91823cfb007abc99_6286994_1024x0_resize_q75_box.jpg 1024w&#34;
+			loading=&#34;lazy&#34;
+			alt=&#34;也可以自制一条线&#34;&gt;
+	&lt;/a&gt;
+	
+	&lt;figcaption&gt;也可以自制一条线&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;figure 
